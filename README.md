@@ -1,7 +1,7 @@
 # Hello. I'm 10Rats 🐀.
 I'm still a school student who scripts for fun. My programming skills leans towards more on game-developing, but I'm currently learning cybersecurity.
 
-### I live at...
+### I live at... 📍
 Someplace, Somewhere
 
 ### I speak... 💬
