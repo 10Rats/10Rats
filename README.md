@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello. I'm 10Rats 🐀.
+
+### I speak... 💬
+
+
 
 <!--
 **10Rats/10Rats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
