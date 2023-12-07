@@ -5,10 +5,7 @@ I'm still a school student who scripts for fun. My programming skills leans towa
 [REDACTED], [REDACTED]
 
 ### I speak... 💬
-Python 🐍<br>
-Unreal Engine 🕹<br>
-Java ☕<br>
-Godot 🤖<br>
+<img src="./file/python.svg" width="50px"> <img src="./file/nodejs.svg" width="50px"> <img src="./file/java.svg" width="50px"> <img src="./file/unreal-engine.svg" width="50px"> <img src="./file/godot.svg" width="50px">
 
 ### I work at...
 [Students Information Technology Services](https://github.com/Student-Information-Technology-Services)
