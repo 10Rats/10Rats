@@ -5,10 +5,10 @@ I'm still a school student who scripts for fun. My programming skills leans towa
 [REDACTED], [REDACTED]
 
 ### I speak... 💬
-<img src="./file/python.svg" width="50px"> <img src="./file/nodejs.svg" width="50px"> <img src="./file/java.svg" width="50px"> <img src="./file/unreal-engine.svg" width="50px"> <img src="./file/godot.svg" width="50px">
+[<img src="./file/python.svg" width="50px">](https://www.python.org/) [<img src="./file/nodejs.svg" width="50px">](https://nodejs.org/en) [<img src="./file/java.svg" width="50px">](https://www.java.com/en/) [<img src="./file/unreal-engine.svg" width="50px">](https://www.unrealengine.com/en-US/download) [<img src="./file/godot.svg" width="50px">](https://godotengine.org/download/windows/)
 
 ### I work at...
-[Students Information Technology Services](https://github.com/Student-Information-Technology-Services)
+[<img src="./file/sits.png" width="50px">](https://github.com/Student-Information-Technology-Services)
 
 
 <!--
