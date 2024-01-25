@@ -1,27 +1,12 @@
-# Hello. I'm 10Rats 🐀.
-I'm still a school student who scripts for fun. My programming skills leans towards more on game-developing, but I'm currently learning cybersecurity.
+### Hi. My name is 10Rats. Just call me "Rats" or "Rat"
 
-### I live at... 📍
-[REDACTED], [REDACTED]
+### Languages I know
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,java,nodejs,py)](https://skillicons.dev)<br>
 
-### I speak... 💬
-[<img src="./file/python.svg" width="50px">](https://www.python.org/) [<img src="./file/nodejs.svg" width="50px">](https://nodejs.org/en) [<img src="./file/java.svg" width="50px">](https://www.java.com/en/) [<img src="./file/unreal-engine.svg" width="50px">](https://www.unrealengine.com/en-US/download) [<img src="./file/godot.svg" width="50px">](https://godotengine.org/download/windows/)
+### Tools I use
+[![My Skills](https://skillicons.dev/icons?i=blender,discordbots,eclipse,figma,godot,ai,ps,robloxstudio,unreal,vscode.)](https://skillicons.dev)
 
-### I work at...
-[<img src="./file/sits.png" width="50px">](https://github.com/Student-Information-Technology-Services)
+### My stats
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=10Rats&show_icons=true&theme=great-gatsby"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10Rats&layout=donut&theme=great-gatsby"></a> |
+| ------------- | ------------- |
 
-
-<!--
-**10Rats/10Rats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
